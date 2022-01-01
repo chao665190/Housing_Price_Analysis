@@ -26,6 +26,9 @@ In this project, we answered questions below:
 Self-Attributes are: Property Type(Single Family House or Townhouse), City/ZIP, Beds, Baths, Price, Square Feet, $/Square Feet, HOA, Lot Size, Year Built.
 
 2. What is the relationship between House Pricing and Covid-19?
+
 2.1 During Covid-19, Does the house pricing grow faster than before?
+
 2.2 During Covid-19, Does the houses with larger yards sell for higher prices?
+
 2.3 During Covid-19, Does the price of houses with convenient transportation has not risen as fast as other places?
