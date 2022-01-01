@@ -1,8 +1,8 @@
 # Housing_Price_Analysis
 
-This project is made by Ling Li and Chao Wang(me).
+This project is made by Ling Li👩🏻‍🏫 and Chao Wang👩🏻‍🌾(me).�
 
-The data were downloaded from Redfin (https://www.redfin.com/), with which we analyzed the housing price of five cities in Bay Area California:
+The data were downloaded from Redfin (https://www.redfin.com/), with which we analyzed the housing price🏘 of five cities in Bay Area California:
 1. Campbell
 2. Cupertino
 3. Santa Clara
