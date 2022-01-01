@@ -8,6 +8,7 @@ The data were downloaded from Redfin (https://www.redfin.com/), with which we an
 3. Santa Clara
 4. Sunnyvale
 5. West San Jose
+
 Ps. Redfin does not have result of "West San Jose"(WSJ). This might because WSJ is not the name of an existing city, but a region. Thus, I searched 6 post codes that make up WSJ: 95117, 95118, 95124, 95128, 95129, 95130.
 
 We did 5 steps for Data Cleaning:
